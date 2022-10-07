@@ -1,11 +1,11 @@
-body{}
-background-color:
+body{
+background-color:aqua;
 }
 
 Estilizar o título principal do seu site
- h1{Pet e Clin
-color: ;
-font-family: ;
+ h1{
+color:blue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 background: ;
 }
 
