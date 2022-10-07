@@ -1,18 +1,19 @@
 body{
-background-color:aqua;
+background-color: #9966cc;
 }
 
-Estilizar o título principal do seu site
  h1{
-color:blue;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-background: ;
+color: white;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+text-align: center;
+font-size: larger;
 }
 
-Estilizar os parágrafos
+
 p{
-color: ;
+color: white ;
 font-family: ;
-font-size: ;
-background: ;
+font-size: medium ;
+
+
 }
